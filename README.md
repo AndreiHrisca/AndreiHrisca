@@ -1,6 +1,6 @@
 <h1>Hello there! I'm Andrei Hrisca 👋</h1>
 
-<p>Dev passionate about creating software.</p>
+<p>Just a new dev passionated about creating software.</p>
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=AndreiHrisca" alt="Profile Views" />
 </p>
